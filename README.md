@@ -4,7 +4,7 @@
 
 Never again worry about what to do when you see this screen while opening Discord, just run the script and be go to go in seconds.</p>
 <p align="center">
-    <img src="[http://material-bread.org/logo-shadow.svg](https://i.imgur.com/JU36HzK.png)" alt="Discord update screen">
+    <img src="https://i.imgur.com/JU36HzK.png" alt="Discord update screen">
 </p>
 <p align="center">While other workarounds disable these updates, this solution properly downloads and installs the update.
 
