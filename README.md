@@ -6,13 +6,12 @@ Never again worry about what to do when you see this screen while opening Discor
 <p align="center">
     <img src="https://i.imgur.com/JU36HzK.png" alt="Discord update screen">
 </p>
-<p align="center">While other workarounds disable these updates, this solution properly downloads and installs the update.
+<p align="center">While other workarounds disable these updates, this solution properly downloads and installs the update.</p>
 
-Keeping your software updated can be important for security and stability.</p>
+<p align="center">Keeping your software updated can be important for security and stability.</p>
 
-### Pros
+<h1 align="center">Pros</h1>
 <p align="center">You can easily update your Discord Linux install using this script rather than using a flatpak or other packaged version.</p>
 
-### Cons
+<h1 align="center">Cons</h1>
 <p align="center">Requires sudo permissions because we're currently moving the files to privileged locations. Might be changed later.</p>
-
