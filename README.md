@@ -1,6 +1,8 @@
 <h1 align="center">Discord Magic Update for Linux</h1>
 <p align="center">A script that magically updates your Discord linux version using the official .tar.gz download.</p>
 
+<p align="center">If no Discord installation exists, this will simply install Discord for you. If Discord does exist, it will be manually updated. This does not remove or replace other versions of Discord, such as the Flatpak release.</p>
+
 <p align="center">Never again worry about what to do when you see this screen while opening Discord, just run the script and be good to go in seconds.</p>
 <p align="center">
     <img src="https://i.imgur.com/JU36HzK.png" alt="Discord update screen">
