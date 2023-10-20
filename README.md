@@ -1,7 +1,7 @@
 <h1 align="center">Discord Magic Update for Linux</h1>
 <p align="center">A script that magically updates your Discord linux version using the official .tar.gz download.</p>
 
-<p align="center">Never again worry about what to do when you see this screen while opening Discord, just run the script and be go to go in seconds.</p>
+<p align="center">Never again worry about what to do when you see this screen while opening Discord, just run the script and be good to go in seconds.</p>
 <p align="center">
     <img src="https://i.imgur.com/JU36HzK.png" alt="Discord update screen">
 </p>
