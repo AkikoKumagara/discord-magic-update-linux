@@ -11,6 +11,9 @@
 
 <p align="center">Keeping your software updated can be important for security and stability.</p>
 
+<h1 align="center">Installation</h1>
+<p align="center">Run the following in Terminal: ```wget -q https://raw.githubusercontent.com/AkikoKumagara/discord-magic-update-linux/master/discordmagicupdate.sh && sh discordmagicupdate.sh```</p>
+
 <h1 align="center">Pros</h1>
 <p align="center">You can easily update your Discord Linux install using this script rather than using a flatpak or other packaged version.</p>
 
