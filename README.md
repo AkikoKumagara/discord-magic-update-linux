@@ -12,7 +12,7 @@
 <p align="center">Keeping your software updated can be important for security and stability.</p>
 
 <h1 align="center">Installation</h1>
-<p align="center">Run the following in Terminal: 
+<p align="center">Run the following in Terminal:<br> 
     <code>wget -q https://raw.githubusercontent.com/AkikoKumagara/discord-magic-update-linux/master/discordmagicupdate.sh && sh discordmagicupdate.sh</code>
 
 <h1 align="center">Pros</h1>
